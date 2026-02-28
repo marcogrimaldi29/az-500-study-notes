@@ -1,0 +1,84 @@
+// ============================================================
+// AZ-500 Study Notes — Custom Color Palette
+// Theme: Security — Deep Navy + Crimson Red
+// ============================================================
+
+// Base colors
+$red-700:    #c0392b;
+$red-600:    #e74c3c;
+$red-100:    #fde8e6;
+$navy-900:   #0d1b2a;
+$navy-800:   #1b2a3b;
+$navy-700:   #1e3a5f;
+$navy-600:   #2c5282;
+$slate-400:  #718096;
+$slate-200:  #edf2f7;
+$white:      #ffffff;
+$off-white:  #f8fafc;
+
+// ── Just the Docs variable overrides ──────────────────────────
+
+$link-color:            $navy-600;
+$btn-primary-color:     $red-700;
+
+// Body
+$body-background-color:         $off-white;
+$body-text-color:               $navy-900;
+$body-heading-color:            $navy-800;
+
+// Sidebar
+$sidebar-color:                 $navy-900;
+$sidebar-nav-active-text:       $white;
+$sidebar-nav-active-bg-color:   $red-700;
+$sidebar-nav-hover-bg-color:    $navy-800;
+$sidebar-nav-hover-text:        $white;
+$sidebar-search-background:     $navy-800;
+$sidebar-search-text:           $white;
+$sidebar-search-border:         $navy-700;
+$sidebar-logo-height:           3rem;
+
+// Top navigation bar
+$navbar-bg:                     $navy-900;
+$search-background-color:       $navy-800;
+
+// Headings
+h1, h2 { color: $navy-800 !important; }
+h3 { color: $red-700 !important; }
+
+// Mermaid diagram tweaks — light bg for readability
+.mermaid {
+  background: $slate-200;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+// Code blocks
+code.highlighter-rouge {
+  background: $navy-900;
+  color: $red-100;
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+// Tables — zebra stripe with navy header
+table thead {
+  background-color: $navy-700;
+  color: $white;
+}
+table tbody tr:nth-child(odd) {
+  background-color: $slate-200;
+}
+
+// Callout highlight (exam tip) — red left border
+.highlight {
+  border-left: 4px solid $red-700;
+  background: $red-100;
+  padding: 0.75rem 1rem;
+  border-radius: 0 6px 6px 0;
+  margin: 1rem 0;
+}
+
+// Badge-style labels used in cheatsheet
+.badge-red   { background: $red-700;  color: $white; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; }
+.badge-navy  { background: $navy-700; color: $white; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; }

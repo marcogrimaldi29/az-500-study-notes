@@ -1,0 +1,92 @@
+##############################################################
+# AZ-500 Study Notes
+# Theme: Just the Docs
+##############################################################
+
+theme: just-the-docs
+
+title: "AZ-500: Microsoft Azure Security Technologies"
+description: "Study Notes & Exam Prep — Microsoft Certified: Azure Security Engineer Associate"
+
+author: "Marco Grimaldi"
+tagline: "Azure Security Engineer Associate — Exam Prep"
+
+url: "https://marcogrimaldi29.com"
+baseurl: "/az-500-study-notes"
+
+logo: "/assets/images/logo-sunrise-domain.jpg"
+
+# Color scheme — overridden in _sass/custom/custom.scss
+color_scheme: az500
+
+# Navigation
+# nav_sort: case_insensitive
+nav_sort: order
+nav_external_links:
+  - title: "🏠 marcogrimaldi29.com"
+    url:   "https://marcogrimaldi29.com"
+  - title: "📄 Official AZ-500 Exam"
+    url:   "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/"
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Aux links (top right)
+aux_links:
+  "📄 Official AZ-500 Exam":
+    - "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/"
+  "🏠 Personal Hub of Marco Grimaldi":
+    - "https://marcogrimaldi29.com"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: >
+  Study notes by <a href="https://marcogrimaldi29.com" target="_blank"><strong>Marco Grimaldi</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://marcogrimaldi29.com" target="_blank">marcogrimaldi29.com</a>
+  &nbsp;·&nbsp;
+  Based on <a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500" target="_blank">Microsoft AZ-500 Study Guide</a>
+  &nbsp;·&nbsp;
+  Not affiliated with or endorsed by Microsoft Corporation.
+
+# Callout titles
+callouts:
+  highlight:
+    title: 🎯 Exam Tip
+    color: red
+  important:
+    title: ⚠️ Important
+    color: yellow
+  new:
+    title: 🆕 New Feature
+    color: green
+  note:
+    title: 📝 Note
+    color: blue
+
+# Mermaid
+mermaid:
+  version: "10.6.1"
+
+# Plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
