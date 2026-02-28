@@ -50,7 +50,7 @@ aux_links_new_tab: true
 
 # Footer
 footer_content: >
-  Study notes by <a href="https://marcogrimaldi29.com" target="_blank"><strong>Marco Grimaldi</strong></a>
+  Study notes maintained by <a href="https://www.linkedin.com/in/marco-grimaldi29/" target="_blank"><strong>Marco Grimaldi</strong></a>
   &nbsp;·&nbsp;
   <a href="https://marcogrimaldi29.com" target="_blank">marcogrimaldi29.com</a>
   &nbsp;·&nbsp;
@@ -75,7 +75,7 @@ callouts:
 
 # Mermaid
 mermaid:
-  version: "10.6.1"
+  version: "10.9.0"
 
 # Plugins
 plugins:
