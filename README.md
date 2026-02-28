@@ -1,14 +1,14 @@
 # 🔐 AZ-500: Microsoft Azure Security Technologies
 ### Study Notes Repository
 
-[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/)
-[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
+[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml){:target="_blank"}
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}
+[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com){:target="_blank"}
 
 > 🎯 **Goal:** Earn the **Microsoft Certified: Azure Security Engineer Associate** badge
 > 📅 **Notes Version:** 2026
-> 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)
-> ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
+> 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}
+> ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}
 
 ---
 
@@ -82,13 +82,13 @@ az-500-study-notes/
 
 | Resource | Link |
 |----------|------|
-| 📄 Official Exam Page | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
-| 📋 Study Guide | [Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
-| 🧪 Free Practice Assessment | [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57) |
-| 🎬 Exam Readiness Videos | [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=AZ-500) |
-| 🔐 Microsoft Defender for Cloud | [Defender Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/) |
-| 🗡️ Microsoft Sentinel | [Sentinel Docs](https://learn.microsoft.com/en-us/azure/sentinel/) |
-| 🏛️ Azure Security Benchmark | [MCSB](https://learn.microsoft.com/en-us/security/benchmark/azure/) |
+| 📄 Official Exam Page | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/){:target="_blank"} |
+| 📋 Study Guide | [Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} |
+| 🧪 Free Practice Assessment | [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57){:target="_blank"} |
+| 🎬 Exam Readiness Videos | [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=AZ-500){:target="_blank"} |
+| 🔐 Microsoft Defender for Cloud | [Defender Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/){:target="_blank"} |
+| 🗡️ Microsoft Sentinel | [Sentinel Docs](https://learn.microsoft.com/en-us/azure/sentinel/){:target="_blank"} |
+| 🏛️ Azure Security Benchmark | [MCSB](https://learn.microsoft.com/en-us/security/benchmark/azure/){:target="_blank"} |
 
 ---
 
@@ -109,7 +109,7 @@ az-500-study-notes/
 
 These notes are hosted on **GitHub Pages** and published at:
 
-👉 **[marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)**
+👉 **[marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}**
 
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 

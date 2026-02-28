@@ -7,13 +7,25 @@
 // ── Heading colour accents ────────────────────────────────────
 h3 { color: #c0392b; }
 
-// ── Mermaid diagrams — light background for readability ───────
+// ── Mermaid diagrams — responsive + no truncation ─────────────
 .mermaid {
   background: #edf2f7;
   border-radius: 8px;
   padding: 1rem;
   margin: 1.5rem 0;
   border: 1px solid #d1dae3;
+  // Prevent SVG from being clipped
+  overflow: visible;
+  text-align: center;
+}
+
+// Make every Mermaid SVG responsive
+.mermaid svg {
+  max-width: 100%;
+  width: 100% !important;
+  height: auto !important;
+  // Prevent labels at the edges from being cut
+  overflow: visible;
 }
 
 // ── Tables — navy header row, zebra body ──────────────────────
