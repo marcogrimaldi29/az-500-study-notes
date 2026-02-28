@@ -1,14 +1,14 @@
 # 🔐 AZ-500: Microsoft Azure Security Technologies
 ### Study Notes Repository
 
-[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml){:target="_blank"}
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}
-[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com){:target="_blank"}
+[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/)
+[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
 
 > 🎯 **Goal:** Earn the **Microsoft Certified: Azure Security Engineer Associate** badge
 > 📅 **Notes Version:** 2026
-> 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}
-> ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}
+> 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)
+> ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
 ---
 
@@ -48,18 +48,18 @@ pie title AZ-500 Exam Domain Weights
 
 ## 🗺️ Certification Path
 
-```
+```mermaid
 flowchart LR
     AZ900["☁️ AZ-900\nAzure Fundamentals\n(Recommended)"]
-    AZ104["🔧 AZ-104\nAzure Administrator\nAssociate\n(Recommended)"]
+    SC900["🪪 SC-900\nSecurity, Compliance, and Identity Fundamentals\n(Recommended)"]
     AZ500["🔐 AZ-500\nAzure Security\nTechnologies\n(This Exam)"]
     BADGE["🏅 Azure Security\nEngineer Associate"]
 
-    AZ900 -->|Foundation| AZ104
-    AZ104 -->|"Recommended\nBackground"| AZ500
-    AZ500 --> BADGE
+    AZ900 -->|Foundation| AZ500
+    SC900 -->|Foundation| AZ500
+    AZ500 -->|"Prerequisite\n(must be active)"| SC100
+    SC100 --> BADGE["🏅 Microsoft Cybersecurity Architect"]
 ```
-
 ---
 
 ## 🗂️ Repository Structure
