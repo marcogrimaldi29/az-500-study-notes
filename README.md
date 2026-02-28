@@ -6,7 +6,7 @@
 [![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
 
 > 🎯 **Goal:** Earn the **Microsoft Certified: Azure Security Engineer Associate** badge
-> 📅 **Notes Version:** 2026 (Skills measured as of November 7, 2025)
+> 📅 **Notes Version:** 2026
 > 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)
 > ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
@@ -18,18 +18,17 @@
 |--------|------|
 | 🏅 Certification | Microsoft Certified: Azure Security Engineer Associate |
 | 📝 Passing Score | **700 / 1000** |
-| 💶 Exam Price | **~€165 EUR** *(varies by region; VAT may apply)* |
-| ⏱️ Duration | **~120 minutes** |
+| 💶 Exam Price | **~€126 EUR** *(varies by region; VAT may apply)* |
+| ⏱️ Duration | **~100 minutes** |
 | ❓ Question Types | MCQ, multi-select, drag-and-drop, case studies |
 | 🔁 Renewal | **Annual** via free online assessment on Microsoft Learn |
-| 🛡️ Recommended Prereq | AZ-104: Azure Administrator Associate |
 
 ---
 
 ## 📊 Official Domain Breakdown
 
 ```
-pie title AZ-500 Exam Domain Weights (official ranges, Nov 2025)
+pie title AZ-500 Exam Domain Weights
     "Secure Identity & Access (15–20%)" : 20
     "Secure Networking (20–25%)" : 25
     "Secure Compute, Storage & Databases (20–25%)" : 25
@@ -112,20 +111,26 @@ These notes are hosted on **GitHub Pages** and published at:
 
 👉 **[marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)**
 
+The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
+
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} and its criteria.
+
 ---
 
-## ✍️ Author
+## ✍️ About the Author
 
-Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant & Lifelong Learner.
+Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}** — Cloud Consultant & Lifelong Learner.
 
-🏠 More certification guides and tech content at **[marcogrimaldi29.com](https://marcogrimaldi29.com)**
+🏠 More certification guides and tech content at **[marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**
+
+> The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/){:target="_blank"}!
 
 ---
 
 ## ©️ Credits & Acknowledgements
 
-The [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
+The [Just the Docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"} theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT){:target="_blank"}.
 
-[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) was used for initial content generation; all final edits, fact-checking, and formatting by the author.
+[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6){:target="_blank"} was used for initial content generation; all final edits, fact-checking, and formatting by the author.
 
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest Microsoft documentation.*
