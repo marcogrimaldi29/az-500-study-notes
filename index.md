@@ -28,7 +28,7 @@ Study Notes & Exam Prep for the **Microsoft Certified: Azure Security Engineer A
 ## 📊 Exam Domain Weights
 
 ```mermaid
-pie title AZ-500 Exam Domain Weights (Nov 2025)
+pie title AZ-500 Exam Domain Weights
     "Secure Identity & Access (15–20%)" : 20
     "Secure Networking (20–25%)" : 25
     "Secure Compute / Storage / DBs (20–25%)" : 25
