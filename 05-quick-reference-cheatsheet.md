@@ -297,7 +297,7 @@ Disabled → Audit → AuditIfNotExists → Append → Modify → DeployIfNotExi
 
 ---
 
-*Previous → [🛡️ 04 — Defender for Cloud & Sentinel]({% link 04-defender-sentinel.md %})* | Next → [🏠 Back to Home →]({% link index.md %})*
+*Previous → [🛡️ 04 — Defender for Cloud & Sentinel]({% link 04-defender-sentinel.md %})* | Next → [🏠 Back to Home]({% link index.md %})*
 
 ---
 
