@@ -28,16 +28,30 @@ h3 { color: #c0392b; }
   overflow: visible;
 }
 
-// ── Tables — navy header row, zebra body ──────────────────────
-table thead {
-  background-color: #1e3a5f;
-  color: #ffffff;
+// ── Tables — high-contrast header + zebra body ───────────────
+// Use high specificity to reliably override JTD defaults.
+// Light slate-blue header with dark navy text avoids the
+// white-on-white issue caused by bg not applying but color does.
+.main-content table thead tr,
+.main-content table thead tr th,
+table thead tr,
+table thead tr th {
+  background-color: #d6e4f0 !important;
+  color: #0d1b2a !important;
+  font-weight: 700;
+  border-bottom: 2px solid #2c5282;
 }
-table thead th {
-  color: #ffffff !important;
-}
+.main-content table tbody tr:nth-child(odd),
 table tbody tr:nth-child(odd) {
-  background-color: #edf2f7;
+  background-color: #f0f4f8;
+}
+.main-content table tbody tr:nth-child(even),
+table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+.main-content table tbody td,
+table tbody td {
+  color: #0d1b2a;
 }
 
 // ── Blockquote / exam tip styling ────────────────────────────
