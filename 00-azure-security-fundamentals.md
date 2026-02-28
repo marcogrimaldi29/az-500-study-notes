@@ -220,4 +220,4 @@ A common exam trap — know when to use each:
 
 ---
 
-*Next → [🪪 01 — Secure Identity & Access]({% link 01-identity-access.md %})*
+*Previous → [🏠 Back to Home →]({% link index.md %})* | Next → [🪪 01 — Secure Identity & Access]({% link 01-identity-access.md %})*
