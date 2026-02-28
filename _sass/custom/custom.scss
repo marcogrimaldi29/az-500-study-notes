@@ -30,16 +30,21 @@ h3 { color: #c0392b; }
 
 // ── Tables — high-contrast header + zebra body ───────────────
 // Use high specificity to reliably override JTD defaults.
-// Light slate-blue header with dark navy text avoids the
-// white-on-white issue caused by bg not applying but color does.
+// Dark navy header with white text for maximum contrast and readability.
+.main-content table thead,
 .main-content table thead tr,
 .main-content table thead tr th,
+table thead,
 table thead tr,
 table thead tr th {
-  background-color: #d6e4f0 !important;
-  color: #0d1b2a !important;
+  background-color: #0d1b2a !important;
+  color: #ffffff !important;
   font-weight: 700;
-  border-bottom: 2px solid #2c5282;
+  border-bottom: 2px solid #1e3a5f;
+}
+.main-content table thead th,
+table thead th {
+  padding: 12px !important;
 }
 .main-content table tbody tr:nth-child(odd),
 table tbody tr:nth-child(odd) {
