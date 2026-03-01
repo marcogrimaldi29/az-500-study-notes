@@ -5,9 +5,9 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/)
 [![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
 
-> 🎯 **Goal:** Earn the **Microsoft Certified: Azure Security Engineer Associate** badge
+> 🎯 **Goal:** Earn the Microsoft Certified: Azure Security Engineer Associate badge
 > 📅 **Notes Version:** 2026
-> 🌐 **Published site:** [marcogrimaldi29.com/az-500-study-notes](https://marcogrimaldi29.com/az-500-study-notes/)
+> 🌐 **Published site:** [📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/)
 > ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
 ---
@@ -125,7 +125,7 @@ Additional resources and study notes maintained by me, such as the **[📘 AZ-30
 
 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}** — Cloud Consultant & Lifelong Learner.
 
-🏠 More certification guides and tech content at **[marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**
+🏠 More certification guides and tech content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**
 
 > The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/){:target="_blank"}!
 
