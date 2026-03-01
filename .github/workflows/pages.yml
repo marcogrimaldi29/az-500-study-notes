@@ -26,6 +26,10 @@ jobs:
         with:
           ruby-version: "3.2"
           bundler-cache: true
+      
+      - name: Inject Umami website ID
+        run: |
+          sed -i 's/UMAMI_WEBSITE_ID_PLACEHOLDER/${{ secrets.UMAMI_WEBSITE_ID }}/g' _includes/head_custom.html
 
       - name: Build with Jekyll
         run: bundle exec jekyll build

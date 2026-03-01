@@ -58,7 +58,7 @@ pie title AZ-500 Exam Domain Weights
 
 ---
 
-## 🌐 About the Study Notes
+## 📚 About the Study Notes
 
 These notes are hosted on **GitHub Pages** and published as a searchable website on this URL:
 
