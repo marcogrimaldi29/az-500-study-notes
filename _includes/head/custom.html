@@ -1,0 +1,25 @@
+<!-- Custom head includes -->
+
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="2odQD3jEYS9beLb8PwPvtMhlwwBdeqIdQUsqM1V3Cr4" />
+
+<!-- External links in new tabs -->
+<script>
+(function() {
+  document.addEventListener("DOMContentLoaded", function() {
+    const currentHost = window.location.hostname;
+    document.querySelectorAll("a[href]").forEach(link => {
+      if (link.hostname && link.hostname !== currentHost) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+})();
+</script>
+
+<!-- Related to Umami -->
+{% include analytics.html %}
+
+<!-- Related to SEO -->
+{% seo %}
