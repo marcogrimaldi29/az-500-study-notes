@@ -4,6 +4,7 @@ title: "00 — Security Fundamentals"
 nav_order: 2
 description: "Zero Trust, Defence in Depth, Microsoft Cloud Security Benchmark, Shared Responsibility"
 permalink: /00-azure-security-fundamentals/
+mermaid: true
 ---
 
 # 🔰 00 — Azure Security Fundamentals
@@ -220,4 +221,4 @@ A common exam trap — know when to use each:
 
 ---
 
-*Previous → [🏠 Back to Home]({% link index.md %})* | Next → [🪪 01 — Secure Identity & Access]({% link 01-identity-access.md %})*
+*Previous → [🏠 Back to Home]({% link index.md %})* | *Next → [🪪 01 — Secure Identity & Access]({% link 01-identity-access.md %})*

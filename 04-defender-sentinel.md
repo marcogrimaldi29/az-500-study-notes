@@ -4,6 +4,7 @@ title: "04 — Defender for Cloud & Sentinel"
 nav_order: 6
 description: "Defender for Cloud, Secure Score, MCSB, Workload Protection, Microsoft Sentinel, SIEM/SOAR, Azure Policy, Key Vault governance"
 permalink: /04-defender-sentinel/
+mermaid: true
 ---
 
 # 🛡️ 04 — Defender for Cloud & Microsoft Sentinel

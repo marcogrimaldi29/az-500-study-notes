@@ -4,6 +4,7 @@ title: "02 — Secure Networking"
 nav_order: 4
 description: "NSG, ASG, Azure Firewall, WAF, Private Endpoints, VPN, ExpressRoute, DDoS"
 permalink: /02-secure-networking/
+mermaid: true
 ---
 
 # 🌐 02 — Secure Networking

@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "AZ-500 Microsoft Azure Security Technologies — Exam Study Notes by Marco Grimaldi"
 permalink: /
+mermaid: true
 ---
 
 # 📘 AZ-500 Study Notes
@@ -12,15 +13,15 @@ permalink: /
 Study Notes & Exam Prep for the **Microsoft Certified: Azure Security Engineer Associate** certification.
 {: .fs-6 .fw-300 }
 
-[View on GitHub](https://github.com/marcogrimaldi29/az-500-study-notes){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
+[View on GitHub](https://github.com/marcogrimaldi29/az-500-study-notes){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 [Get Started →]({% link 00-azure-security-fundamentals.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Official Exam Page](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
+[Official Exam Page](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-> 🏠 These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}** and based on the **[official Microsoft documentation](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/){:target="_blank"}**.
-> Find more certification guides, study tips, and tech content at **[marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**.
+> 🏠 These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** and based on the **[official Microsoft documentation](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/)**.
+> Find more certification guides, study tips, and tech content at **[marcogrimaldi29.com](https://marcogrimaldi29.com)**.
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest Microsoft documentation.*
 
 ---
@@ -62,25 +63,25 @@ pie title AZ-500 Exam Domain Weights
 
 These notes are hosted on **GitHub Pages** and published as a searchable website on this URL:
 
-👉 **[📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}**
+👉 **[📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/)**
 
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
-These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} and its criteria.
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) and its criteria.
 
-Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/){:target="_blank"}** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
+Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/)** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
 
-👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/){:target="_blank"}**
+👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/)**
 
 ---
 
 ## ✍️ About the Author
 
-These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}** — Cloud Consultant, Language Trainer & Lifelong Learner.
+These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant, Language Trainer & Lifelong Learner.
 
-📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**
+📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
-> The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/){:target="_blank"}!
+> The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/)!
 
 ---
 
@@ -92,8 +93,8 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ## ©️ Credits & Acknowledgements
 
-The [Just the Docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"} theme is used for a clean, documentation-style layout that emphasizes readability and quick reference. Licensed under [MIT](https://opensource.org/license/MIT){:target="_blank"}.
+The [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme is used for a clean, documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
 
-[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6){:target="_blank"} was used for initial content generation and structuring, with all final edits, fact-checking, and formatting done by the author.
+Created with the help of AI. Model used: [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6). The content has been reviewed and edited by the author for accuracy and clarity, but may contain errors. Always verify against the latest [Microsoft documentation](https://learn.microsoft.com/en-us/azure/).
 
----
+> *Not affiliated with or endorsed by Microsoft.*
