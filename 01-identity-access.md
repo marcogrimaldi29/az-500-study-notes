@@ -4,6 +4,7 @@ title: "01 — Identity & Access"
 nav_order: 3
 description: "RBAC, Entra ID, PIM, MFA, Conditional Access, Managed Identities, App Registrations"
 permalink: /01-identity-access/
+mermaid: true
 ---
 
 # 🪪 01 — Secure Identity & Access
