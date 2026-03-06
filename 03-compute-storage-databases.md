@@ -4,6 +4,7 @@ title: "03 — Compute, Storage & DBs"
 nav_order: 5
 description: "Azure Bastion, JIT, AKS, ADE, Storage security, SQL TDE, Dynamic Masking, Key Vault"
 permalink: /03-compute-storage-databases/
+mermaid: true
 ---
 
 # 💾 03 — Secure Compute, Storage & Databases

@@ -4,6 +4,7 @@ title: "05 — Quick Reference"
 nav_order: 7
 description: "Final-hour cheatsheet: key numbers, decision tables, exam traps, last-minute review"
 permalink: /05-quick-reference-cheatsheet/
+mermaid: true
 ---
 
 # ⚡ 05 — Quick Reference Cheatsheet
