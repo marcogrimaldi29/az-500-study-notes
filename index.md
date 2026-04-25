@@ -61,17 +61,13 @@ pie title AZ-500 Exam Domain Weights
 
 ## 📚 About the Study Notes
 
-These notes are hosted on **GitHub Pages** and published as a searchable website on this URL:
-
-👉 **[📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/)**
-
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
-These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) and its criteria.
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official **[Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500)** and its criteria.
 
-Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/)** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
+Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
-👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/)**
+👉 **[🛬 Landing Page: Study Notes](https://marcogrimaldi29.com/study-notes/)**
 
 ---
 
