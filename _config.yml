@@ -20,12 +20,10 @@ color_scheme: az500
 # nav_sort: case_insensitive
 nav_sort: order
 nav_external_links:
-  - title: "📄 Official AZ-500 Exam"
-    url:   "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/"
-  - title: "📘 AZ-305 Study Notes"
-    url: https://marcogrimaldi29.com/az-305-study-notes/
-  - title: "📘 AZ-104 Study Notes"
-    url: https://marcogrimaldi29.com/az-104-study-notes/
+  - title: "🏠 Personal Hub of Marco Grimaldi"
+    url:   "https://marcogrimaldi29.com"
+  - title: "🛬 Landing Page: Study Notes"
+    url:   "https://marcogrimaldi29.com/study-notes/"
 #  - title: "🏠 marcogrimaldi29.com"
 #    url:   "https://marcogrimaldi29.com"
 

@@ -115,19 +115,19 @@ The site includes full-text search, Mermaid diagram rendering, and mobile-friend
 
 These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} and its criteria.
 
-Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/){:target="_blank"}** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
+Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
-👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/){:target="_blank"}**
+👉 **[🛬 Landing Page: Study Notes](https://marcogrimaldi29.com/study-notes/)**
 
 ---
 
 ## ✍️ About the Author
 
-Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/){:target="_blank"}** — Cloud Consultant & Lifelong Learner.
+Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant, Language Trainer & Lifelong Learner.
 
-🏠 More certification guides and tech content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com){:target="_blank"}**
+🏠 Find more certification guides, study tips, and tech content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
-> The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/){:target="_blank"}!
+The site is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/)!
 
 ---
 
@@ -139,8 +139,8 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ## ©️ Credits & Acknowledgements
 
-The [Just the Docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"} theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT){:target="_blank"}.
+The **[Just the Docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"}** theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT){:target="_blank"}.
 
-[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6){:target="_blank"} was used for initial content generation; all final edits, fact-checking, and formatting by the author.
+**[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6){:target="_blank"}** was used for initial content generation; all final edits, fact-checking, and formatting by the author.
 
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest Microsoft documentation.*
