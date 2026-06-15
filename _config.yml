@@ -20,12 +20,10 @@ color_scheme: az500
 # nav_sort: case_insensitive
 nav_sort: order
 nav_external_links:
-  - title: "🏠 Personal Hub of Marco Grimaldi"
+  - title: "🏠 marcogrimaldi29.com"
     url:   "https://marcogrimaldi29.com"
   - title: "🛬 Landing Page: Study Notes"
     url:   "https://marcogrimaldi29.com/study-notes/"
-#  - title: "🏠 marcogrimaldi29.com"
-#    url:   "https://marcogrimaldi29.com"
 
 # Search
 search_enabled:         true
@@ -40,7 +38,7 @@ search:
 
 # Aux links (top right)
 aux_links:
-  "🏠 Personal Hub of Marco Grimaldi":
+  "🏠 marcogrimaldi29.com":
     - "https://marcogrimaldi29.com"
 
 aux_links_new_tab: true

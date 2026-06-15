@@ -3,7 +3,7 @@
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/az-500-study-notes/actions/workflows/pages.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/)
-[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
+[![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
 
 > 🎯 **Goal:** Earn the Microsoft Certified: Azure Security Engineer Associate badge
 > 📅 **Notes Version:** 2026
@@ -109,11 +109,11 @@ az-500-study-notes/
 
 These notes are hosted on **GitHub Pages** and published as a searchable website on this URL:
 
-👉 **[📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/){:target="_blank"}**
+👉 **[📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/)**
 
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
-These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} and its criteria.
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) and its criteria.
 
 Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
@@ -125,7 +125,7 @@ Additional study notes maintained by me are also available for those pursuing Mi
 
 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant, Language Trainer & Lifelong Learner.
 
-🏠 Find more certification guides, study tips, and tech content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
+Find more certification guides, study tips, and tech content at **[🏠 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
 The site is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/)!
 
