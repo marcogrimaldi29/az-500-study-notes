@@ -82,13 +82,13 @@ az-500-study-notes/
 
 | Resource | Link |
 |----------|------|
-| 📄 Official Exam Page | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/){:target="_blank"} |
-| 📋 Study Guide | [Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500){:target="_blank"} |
-| 🧪 Free Practice Assessment | [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57){:target="_blank"} |
-| 🎬 Exam Readiness Videos | [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=AZ-500){:target="_blank"} |
-| 🔐 Microsoft Defender for Cloud | [Defender Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/){:target="_blank"} |
-| 🗡️ Microsoft Sentinel | [Sentinel Docs](https://learn.microsoft.com/en-us/azure/sentinel/){:target="_blank"} |
-| 🏛️ Azure Security Benchmark | [MCSB](https://learn.microsoft.com/en-us/security/benchmark/azure/){:target="_blank"} |
+| 📄 Official Exam Page | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+| 📋 Study Guide | [Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
+| 🧪 Free Practice Assessment | [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57) |
+| 🎬 Exam Readiness Videos | [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=AZ-500) |
+| 🔐 Microsoft Defender for Cloud | [Defender Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/) |
+| 🗡️ Microsoft Sentinel | [Sentinel Docs](https://learn.microsoft.com/en-us/azure/sentinel/) |
+| 🏛️ Azure Security Benchmark | [MCSB](https://learn.microsoft.com/en-us/security/benchmark/azure/) |
 
 ---
 
@@ -147,8 +147,8 @@ If these notes have helped you prepare for the AZ-500 exam, consider giving the 
 
 ## ©️ Credits & Acknowledgements
 
-The **[Just the Docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"}** theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT){:target="_blank"}.
+The **[Just the Docs](https://github.com/just-the-docs/just-the-docs)** theme is used for a clean documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
 
-**[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6){:target="_blank"}** was used for initial content generation; all final edits, fact-checking, and formatting by the author.
+**[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)** was used for initial content generation; all final edits, fact-checking, and formatting by the author.
 
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest Microsoft documentation.*
