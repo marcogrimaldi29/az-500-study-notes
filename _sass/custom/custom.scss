@@ -81,3 +81,47 @@ code.highlighter-rouge {
 // ── Badge helpers used in cheatsheet ─────────────────────────
 .badge-red  { background: #c0392b; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; }
 .badge-navy { background: #1e3a5f; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; }
+
+// ── Footer support callouts ──────────────────────────────────
+// Rendered by _includes/footer_custom.html. Same pairing as the support
+// callout on marcogrimaldi29.com, adapted to this light navy + crimson scheme.
+body .star-cta,
+body .issue-note {
+  border-radius: 8px;
+  padding: 0.875rem 1rem;
+  margin: 0 0 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #0d1b2a;
+}
+body .star-cta   { background: #fdf6e7; border: 1px solid rgba(183, 121, 31, 0.4); }
+body .issue-note { background: #edf2f7; border: 1px solid #d1dae3; margin-bottom: 1rem; }
+body .star-cta p { margin: 0 0 0.75rem; }
+body .issue-note a { font-weight: 600; }
+
+// Buttons grow to fill their row, so however they wrap the rows end flush.
+body .support-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+body .support-actions a {
+  display: inline-flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.25rem;
+  padding: 0.375rem 0.875rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+body .support-actions a:hover { text-decoration: none; transform: translateY(-1px); }
+body .support-actions svg { flex: none; }
+
+// Deep navy, like the sidebar and table headers.
+body .support-actions a.support-star       { background: #0d1b2a; border-color: #0d1b2a; color: #ffffff; }
+body .support-actions a.support-star:hover { background: #1e3a5f; border-color: #1e3a5f; color: #ffffff; }
+
+// LinkedIn's own blue in both themes, lightening on hover.
+body .support-actions a.support-linkedin       { background: #0a66c2; border-color: #0a66c2; color: #ffffff; }
+body .support-actions a.support-linkedin:hover { background: #1275d1; border-color: #1275d1; color: #ffffff; }
