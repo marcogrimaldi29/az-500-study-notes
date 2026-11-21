@@ -13,6 +13,9 @@ mermaid: true
 **Exam weight: 30–35% — The heaviest domain.** Covers Defender for Cloud posture management, workload protection plans, Microsoft Sentinel SIEM/SOAR, Azure Policy governance, and Key Vault management.
 {: .fs-5 }
 
+{: .retired }
+**AZ-500 retired on 31 August 2026** and can no longer be taken or renewed. These notes stay online as a reference. The successor is **SC-500 (Microsoft Certified: Cloud and AI Security Engineer Associate)**; see [Retirement & Successor]({% link index.md %}#retirement-and-successor).
+
 ---
 
 <details open markdown="block">
