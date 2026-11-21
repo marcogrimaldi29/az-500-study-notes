@@ -4,8 +4,11 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/az-500-study-notes/)
 [![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-red?logo=rss)](https://marcogrimaldi29.com)
 
-> 🎯 **Goal:** Earn the Microsoft Certified: Azure Security Engineer Associate badge
-> 📅 **Notes Version:** 2026
+> [!WARNING]
+> **AZ-500 retired on 31 August 2026.** Microsoft retired the exam, the Microsoft Certified: Azure Security Engineer Associate certification and its renewal assessment, so they can no longer be taken or renewed. These notes stay online as an archived reference. The successor is **[SC-500: Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/)**; see [Retirement & Successor](#retirement-and-successor).
+
+> 🎯 **Original goal:** Earn the Microsoft Certified: Azure Security Engineer Associate badge *(no longer possible since 31 August 2026)*
+> 📅 **Notes Version:** 2026, final AZ-500 skills outline (22 January 2026), archived
 > 🌐 **Published site:** [📘 AZ-500 Study Notes](https://marcogrimaldi29.com/az-500-study-notes/)
 > ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
@@ -16,18 +19,20 @@
 | Detail | Info |
 |--------|------|
 | 🏅 Certification | Microsoft Certified: Azure Security Engineer Associate |
+| 🗄️ Status | **Retired on 31 August 2026** (exam, certification and renewal assessment) |
+| ➡️ Successor | **SC-500**: Microsoft Certified: Cloud and AI Security Engineer Associate |
 | 📝 Passing Score | **700 / 1000** |
-| 💶 Exam Price | **~€126 EUR** *(varies by region; VAT may apply)* |
+| 💶 Exam Price | No longer offered *(was ~€126 EUR, varied by region)* |
 | ⏱️ Duration | **~100 minutes** |
 | ❓ Question Types | MCQ, multi-select, drag-and-drop, case studies |
-| 🔁 Renewal | **Annual** via free online assessment on Microsoft Learn |
+| 🔁 Renewal | No longer available. Existing certifications stay valid until they expire *(was annual, via a free online assessment)* |
 
 ---
 
-## 📊 Official Domain Breakdown
+## 📊 Official Domain Breakdown (final)
 
-```
-pie title AZ-500 Exam Domain Weights
+```mermaid
+pie title AZ-500 Exam Domain Weights (final)
     "Secure Identity & Access (15–20%)" : 20
     "Secure Networking (20–25%)" : 25
     "Secure Compute, Storage & Databases (20–25%)" : 25
@@ -47,18 +52,43 @@ pie title AZ-500 Exam Domain Weights
 
 ## 🗺️ Certification Path
 
+AZ-500 is retired and SC-500 replaces it, including as a prerequisite option for the Cybersecurity Architect Expert certification.
+
 ```mermaid
 flowchart LR
-    AZ900["☁️ AZ-900\nAzure Fundamentals\n(Recommended)"]
-    SC900["🪪 SC-900\nSecurity, Compliance, and Identity Fundamentals\n(Recommended)"]
-    AZ500["🔐 AZ-500\nAzure Security\nTechnologies\n(This Exam)"]
-    BADGE["🏅 Azure Security\nEngineer Associate"]
+    AZ900["☁️ AZ-900<br>Azure Fundamentals<br>(optional foundation)"]
+    SC900["🪪 SC-900<br>Security, Compliance, and<br>Identity Fundamentals<br>(optional foundation)"]
+    AZ500["🔐 AZ-500<br>Azure Security Engineer Associate<br>❌ Retired 31 Aug 2026"]
+    SC500["🛡️ SC-500<br>Cloud and AI Security<br>Engineer Associate<br>(successor)"]
+    SC200["📡 SC-200<br>Security Operations<br>Analyst Associate"]
+    SC300["🪪 SC-300<br>Identity and Access<br>Administrator Associate"]
+    SC100["🏛️ SC-100<br>Cybersecurity Architect Expert"]
 
-    AZ900 -->|Foundation| AZ500
-    SC900 -->|Foundation| AZ500
-    AZ500 -->|"Prerequisite\n(must be active)"| SC100
-    SC100 --> BADGE["🏅 Microsoft Cybersecurity Architect"]
+    AZ900 -->|Foundation| SC500
+    SC900 -->|Foundation| SC500
+    AZ500 -.->|"Replaced by"| SC500
+    SC500 -->|"Prerequisite (one of)"| SC100
+    SC200 -->|"Prerequisite (one of)"| SC100
+    SC300 -->|"Prerequisite (one of)"| SC100
+
+    classDef retired stroke-dasharray:5 5,color:#888
+    class AZ500 retired
 ```
+
+---
+
+<a id="retirement-and-successor"></a>
+## 🗄️ Retirement & Successor (SC-500)
+
+Microsoft retired the AZ-500 exam, the Microsoft Certified: Azure Security Engineer Associate certification and its renewal assessment on **31 August 2026 at 11:59 PM Central Standard Time**. The direct replacement is **Exam SC-500: Implementing End-to-End Security Controls for Cloud and AI Workloads**, which earns **Microsoft Certified: Cloud and AI Security Engineer Associate** (generally available since 21 July 2026).
+
+- **Already certified?** Your AZ-500 certification stays valid, and on your Microsoft Learn transcript, until it expires. It can't be renewed.
+- **SC-500 domains:** Manage identity, access, and governance (20–25%) · Secure storage, databases, and networking (25–30%) · Secure compute, now including security for AI (20–25%) · Manage and monitor security posture (20–25%).
+- **New in SC-500:** security for AI and agents (Purview DSPM, Defender for AI Services, Microsoft Entra Agent ID, Microsoft Foundry guardrails), Microsoft Security Copilot, Microsoft Entra Private Access, Azure Arc and Azure Machine Configuration.
+- **SC-100 prerequisite:** Cybersecurity Architect Expert now requires one of SC-300, SC-200 or SC-500. AZ-500 is no longer listed.
+
+The [site's Home page](https://marcogrimaldi29.com/az-500-study-notes/#retirement-and-successor) has the full domain comparison. Sources: [AZ-500 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) · [SC-500 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500) · [Exam and assessment lab retirement](https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams) · [Cybersecurity Architect Expert prerequisites](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/#certification-prerequisites)
+
 ---
 
 ## 🗂️ Repository Structure
@@ -81,9 +111,12 @@ az-500-study-notes/
 
 | Resource | Link |
 |----------|------|
-| 📄 Official Exam Page | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
-| 📋 Study Guide | [Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
-| 🧪 Free Practice Assessment | [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57) |
+| 📄 Official Exam Page *(retired)* | [AZ-500 Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) |
+| 📋 Study Guide *(retired)* | [Official AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
+| 🧪 Free Practice Assessment *(retired exam)* | [AZ-500 Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57) |
+| 🆕 Successor Certification | [SC-500: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) |
+| 📋 Successor Study Guide | [SC-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500) |
+| 🗓️ Retired Exams List | [Exam and assessment lab retirement](https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams) |
 | 🎬 Exam Readiness Videos | [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=AZ-500) |
 | 🔐 Microsoft Defender for Cloud | [Defender Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/) |
 | 🗡️ Microsoft Sentinel | [Sentinel Docs](https://learn.microsoft.com/en-us/azure/sentinel/) |
@@ -92,6 +125,8 @@ az-500-study-notes/
 ---
 
 ### ✅ Key Study Tips
+
+These were written for AZ-500. Most of them still apply to SC-500's identity, networking and posture-management domains.
 
 - 🎯 The exam tests **"why this control?"** — think in threat models and defence-in-depth layers
 - 🔄 Understand **Zero Trust principles** — verify explicitly, least privilege, assume breach
@@ -112,7 +147,7 @@ These notes are hosted on **GitHub Pages** and published as a searchable website
 
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
-These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) and its criteria.
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services based on the official [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) and its criteria. They follow the final AZ-500 skills outline (22 January 2026) and are kept as an archived reference now that the exam has retired.
 
 Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 

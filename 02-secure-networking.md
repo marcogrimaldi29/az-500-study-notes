@@ -13,6 +13,9 @@ mermaid: true
 **Exam weight: 20–25%** — Covers NSGs, ASGs, Azure Firewall, WAF, Private Endpoints, VPN, ExpressRoute, and DDoS Protection.
 {: .fs-5 }
 
+{: .retired }
+**AZ-500 retired on 31 August 2026** and can no longer be taken or renewed. These notes stay online as a reference. The successor is **SC-500 (Microsoft Certified: Cloud and AI Security Engineer Associate)**; see [Retirement & Successor]({% link index.md %}#retirement-and-successor).
+
 ---
 
 <details open markdown="block">

@@ -6,12 +6,12 @@ theme: just-the-docs
 
 # ── Site identity ─────────────────────────────────────────
 title: "AZ-500: Microsoft Azure Security Engineer Associate"
-description: "Study Notes & Exam Prep — Microsoft Certified: Azure Security Engineer Associate"
+description: "Archived study notes for the retired AZ-500 exam (Microsoft Certified: Azure Security Engineer Associate, retired 31 August 2026). Successor: SC-500 — Cloud and AI Security Engineer Associate."
 url: "https://marcogrimaldi29.com"
 baseurl: "/az-500-study-notes"
 logo: "/assets/images/site-mark-no-bg.png"
 author: "Marco Grimaldi"
-tagline: "Azure Security Engineer Associate — Exam Prep"
+tagline: "Azure Security Engineer Associate — Archived (retired 31 Aug 2026)"
 
 # Color scheme — overridden in _sass/custom/custom.scss
 color_scheme: az500
@@ -69,6 +69,9 @@ callouts:
   note:
     title: 📝 Note
     color: blue
+  retired:
+    title: 🗄️ Retired Exam
+    color: red
 
 # Mermaid
 mermaid:

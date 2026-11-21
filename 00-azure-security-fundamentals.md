@@ -13,6 +13,9 @@ mermaid: true
 Core concepts that underpin **every AZ-500 domain**. These aren't a standalone exam section, but they are woven into every scenario question.
 {: .fs-5 }
 
+{: .retired }
+**AZ-500 retired on 31 August 2026** and can no longer be taken or renewed. These notes stay online as a reference. The successor is **SC-500 (Microsoft Certified: Cloud and AI Security Engineer Associate)**; see [Retirement & Successor]({% link index.md %}#retirement-and-successor).
+
 ---
 
 <details open markdown="block">
